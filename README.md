@@ -1,5 +1,7 @@
 <h1 align="center">Olá, eu sou o Leandro Freire ✌</h1>
-<p align="center">🚧 Front-end Dev em construção | 🎨 Apaixonado por HTML & CSS | 👻 Ghost Mode 100%</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75000&center=true&vCenter=true&lines=🚀+Full-Stack+Dev+in+progress;👻+Ghost+mode+99%25+active;💻+Code,+Design,+Repeat;😎+Building+cool+things+with+passion!" />
+</p>
 
 ---
 
